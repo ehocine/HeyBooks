@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936270227413",
+    "project_id": "heybooks-4a0a3",
+    "storage_bucket": "heybooks-4a0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936270227413:android:8ae390e5c5fb1c51e2bf5c",
+        "android_client_info": {
+          "package_name": "com.helic.heybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936270227413-qjiav3bc3cebklcgau9gk2adufiaka8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgk1xL1oXVPrTyKzZabOvFZ-uEt7Q0R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936270227413-qjiav3bc3cebklcgau9gk2adufiaka8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
